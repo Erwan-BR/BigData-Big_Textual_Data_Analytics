@@ -8,7 +8,7 @@ The aim of this first lab on the notion of Big Data was to introduce us to the c
 
 ## Implementation
 
-This tutorial was carried out during a two-hour period when we were discovering the principle of mapping and MapReduce. I implemented the code to meet the requirements of the subject.
+This tutorial was carried out during a four-hour period when we were discovering the principle of mapping and MapReduce. I implemented the code to meet the requirements of the subject.
 
 ---
 
@@ -18,4 +18,4 @@ L'objectif de ce premier TP sur la notion de Big Data a été de nous introduire
 
 ## Mise en œuvre
 
-Ce TP a été réalisé durant un temps de deux heures lorsque nous découvrions le principe de mapping et de MapReduce. J'ai mis en place le code qui permettait donc de répondre aux exigences du sujet.
+Ce TP a été réalisé durant un temps de quatres heures lorsque nous avons découvert le principe de mapping et de MapReduce. J'ai mis en place le code qui permettait donc de répondre aux exigences du sujet.
